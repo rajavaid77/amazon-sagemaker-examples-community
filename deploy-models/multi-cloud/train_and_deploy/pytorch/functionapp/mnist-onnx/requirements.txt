@@ -4,4 +4,4 @@
 
 azure-functions
 onnxruntime
-numpy
+numpy==1.26
